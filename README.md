@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Maria Clara
-- 👀 I’m interested in movies, music and games
+- 👀 I’m interested in movies, music and games 🐙
 - 🌱 I’m currently learning front-end
 -
 - 📫 How to reach me ...
