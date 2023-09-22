@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning *front-end development*
 
 
-📫 Para contato: <a href = "mailto:contatom.claraoliveiraramos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" width="70" height="24" ></a>
+📫 Para contato: <a href = "mailto:contatom.claraoliveiraramos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" width="70" height="24" ></a> <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)] (www.linkedin.com/in/mariaclararamos)
 
