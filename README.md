@@ -10,7 +10,8 @@
 
 
 📫 Para contato: <a href = "mailto:contatom.claraoliveiraramos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" width="70" height="24" ></a>
-LinkedIn (https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)] www.linkedin.com/in/mariaclararamos
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)] (www.linkedin.com/in/mariaclararamos)
 
 
 
@@ -23,7 +24,7 @@ LinkedIn (https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=lin
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mariaclr&theme=dark" alt="mariaclr" /></p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)] (www.linkedin.com/in/mariaclararamos)
+
 
 <!---
 MariaClr/MariaClr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
